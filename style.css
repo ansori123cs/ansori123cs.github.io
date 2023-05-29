@@ -1,0 +1,17 @@
+.navbar {
+  background-color: #4942e4;
+}
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #8696fe;
+}
+#project {
+  background-color: #8696fe;
+}
+#project img {
+  width: 250px;
+  margin: 20px;
+}
+footer {
+  background-color: #4942e4;
+}
